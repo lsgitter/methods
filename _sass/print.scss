@@ -192,12 +192,13 @@ header.banner,
   padding-right: .5in;
 }
 
-
+.layout--example-interview-debrief-prompts .page,
 .layout--example-design-research-participant-agreement .page,
 .layout--interview-checklist .page {
   font-size: 12pt;
 }
 
+.layout--example-interview-debrief-prompts .page h1#sample-interview-debrief-prompts,
 .layout--interview-checklist .page h1#interview-checklist{ margin-top: 0 ; }
 
 .layout--example-design-research-participant-agreement .page{
@@ -208,6 +209,8 @@ header.banner,
 
 .layout--example-design-research-participant-agreement .page p,
 .layout--example-design-research-participant-agreement .page li,
+.layout--example-interview-debrief-prompts .page p,
+.layout--example-interview-debrief-prompts .page li,
 .layout--interview-checklist .page p,
 .layout--interview-checklist .page li {
   line-height: 1.4em;

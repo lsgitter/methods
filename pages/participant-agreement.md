@@ -2,9 +2,12 @@
 title: Example Design Research Participant Agreement
 description: An example design research participant agreement
 layout: page
+permalink: example-participant-agreement
+redirect_from:
+  - /participant-agreement/
 ---
 
-# Example Design Research Participant Agreement
+# Example Participant Agreement
 
 This agreement relates to your participation in a study led by `<organization>` to better understand `<area of inquiry>`. Please read it carefully and ask any questions you have before signing.
 
