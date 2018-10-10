@@ -2,7 +2,7 @@
 title: Example interview debrief prompts
 description: An example set of prompts for leading a post-interview conversation
 layout: page
-permalink: example-interview-debrief-prompts
+permalink: /example-interview-debrief-prompts/
 ---
 
 <style type="text/css" media="print">

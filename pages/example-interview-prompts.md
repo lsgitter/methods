@@ -2,7 +2,7 @@
 title: Example interview prompts
 description: An example set of prompts for leading an interview
 layout: page
-permalink: example-interview-prompts
+permalink: /example-interview-prompts/
 ---
 
 <style type="text/css" media="print">
